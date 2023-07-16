@@ -1,2 +1,3 @@
 # DeepLearning
-Deep Learning academic project 22/23 "La Sapienza", Master in Artificial Intelligence and Robotics
+Deep Learning Academic Project 22/23 "La Sapienza", Rome. 
+Master in Artificial Intelligence and Robotics
